@@ -28,7 +28,7 @@ github_username:  jjmartens
 dblp_link: https://dblp.org/pid/132/5286-1.html
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
