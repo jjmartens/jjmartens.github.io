@@ -22,7 +22,7 @@ title: Jan Martens
 email: j.j.m.martens@tue.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Personal webpage of Jan Martens.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com 
 github_username:  jjmartens
 dblp_link: https://dblp.org/pid/132/5286-1.html
