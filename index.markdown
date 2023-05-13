@@ -21,7 +21,7 @@ Currently I am a PhD-student in the [Formal System Analysis (fsa)](https://fsa.w
     With Denis Kuperberg
 
 # Journal Publications
-- **Computer Science Programming - 2023** - [Innermost many-sorted term rewriting on GPUs](https://www.sciencedirect.com/science/article/pii/S0167642322001435)\
+- **Science of Computer Programming - 2023** - [Innermost many-sorted term rewriting on GPUs](https://www.sciencedirect.com/science/article/pii/S0167642322001435)\
     With Johri van Eerd, Jan Friso Groote, Pieter Hijma, Muhammad Osama and Anton Wijs 
 - **Software and Systems Modeling - 2023** - [Linear parallel algorithms to compute strong and branching bisimilarity](https://doi.org/10.1016/j.scico.2022.102910)\
     With Jan Friso Groote, Lars van den Haak, Pieter Hijma and Anton Wijs
