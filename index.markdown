@@ -11,7 +11,7 @@ layout: home
 Currently I am a PhD-student in the [Formal System Analysis (fsa)](https://fsa.win.tue.nl/) group at the Eindhoven University of Technology. Before that I did the "Mathematical Foundations of Computer   Science" program at the Radboud University Nijmegen. For my master's thesis I spend a semester at the École normale supérieure de Lyon, where I researched origin transducers with Denis Kuperberg.
 
 # Conference Publications
-- **CONCUR 2023 (pre-print)** - [Computing minimal distinguishing Hennessy-Milner formulas is NP-hard, but variants are tractable
+- **CONCUR 2023** - [Computing minimal distinguishing Hennessy-Milner formulas is NP-hard, but variants are tractable
 ](https://arxiv.org/abs/2307.05265)\
     With Jan Friso Groote
 - **FACS 2021** - [A Linear Parallel Algorithm to Compute Bisimulation and Relational Coarsest Partitions](https://arxiv.org/pdf/2105.11788.pdf)\
@@ -32,7 +32,6 @@ Currently I am a PhD-student in the [Formal System Analysis (fsa)](https://fsa.w
     With Jan Friso Groote and Erik de Vink
 
 # Informal
-- [Deciding minimal distinguishing DFAs is NP-complete](https://arxiv.org/abs/2306.03533)\
-
+- [Deciding minimal distinguishing DFAs is NP-complete](https://arxiv.org/abs/2306.03533)
 
 
