@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jan Martens | Personal webpage"
+title                    : "Jan Martens"
 title_separator          : "-"
 name                     : &name "Jan Martens"
 description              : &description "personal description"
