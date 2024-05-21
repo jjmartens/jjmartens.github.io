@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About me
 Currently I am a PhD-student in the [Formal System Analysis (fsa)](https://fsa.win.tue.nl/) group at the Eindhoven University of Technology. Before that I did the "Mathematical Foundations of Computer   Science" program at the Radboud University Nijmegen. For my master's thesis I spend a semester at the École normale supérieure de Lyon, where I researched origin transducers with Denis Kuperberg.
 
