@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Computer scientist"
   location         : "Nijmegen"
-  employer         : "Eindhoven University of Technology"
+  employer         : "TU Eindhoven"
   uri              : # URL
   email            : "jan-martens@hotmail.com" 
 
@@ -201,16 +201,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
