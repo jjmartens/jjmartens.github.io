@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : #
   researchgate     : # URL
+  dblp             : "https://dblp.org/pid/132/5286-1.html"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
