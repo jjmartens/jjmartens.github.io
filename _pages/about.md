@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 # About me
-Currently I am a PhD-student in the [Formal System Analysis (fsa)](https://fsa.win.tue.nl/) group at the Eindhoven University of Technology. Before that I did the "Mathematical Foundations of Computer   Science" program at the Radboud University Nijmegen. For my master's thesis I spend a semester at the École normale supérieure de Lyon, where I researched origin transducers with Denis Kuperberg.
+From June 2024 I will be working as post doctoral researcher at the Leiden Institute of Advanced Computer Science (LIACS) in the [System Validation Lab](https://svl.liacs.nl/) with Alfons Laarman.
 
+Before that I was a PhD-student in the [Formal System Analysis (fsa)](https://fsa.win.tue.nl/) group at the Eindhoven University of Technology. 
 # Contributions
 - **GandALF 2024** - An Evaluation of Massively Parallel Algorithms for DFA Minimization(to appear)\
     With Anton Wijs
