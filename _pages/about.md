@@ -14,7 +14,8 @@ Currently I am a PhD-student in the [Formal System Analysis (fsa)](https://fsa.w
 - **GandALF 2024** - An Evaluation of Massively Parallel Algorithms for DFA Minimization(to appear)\
     With Anton Wijs
 - **Logics and Type Systems in Theory and Practice** -
-  [Minimal Depth Distinguishing Formulas Without Until for Branching Bisimulation](https://doi.org/10.1007/978-3-031-61716-4_12)
+  [Minimal Depth Distinguishing Formulas Without Until for Branching Bisimulation](https://doi.org/10.1007/978-3-031-61716-4_12)\
+  With Jan Friso Groote
 - **CONCUR 2023** - [Computing minimal distinguishing Hennessy-Milner formulas is NP-hard, but variants are tractable
 ](https://doi.org/10.4230/LIPIcs.CONCUR.2023.32)\
     With Jan Friso Groote
