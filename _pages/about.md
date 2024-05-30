@@ -11,10 +11,11 @@ redirect_from:
 Currently I am a PhD-student in the [Formal System Analysis (fsa)](https://fsa.win.tue.nl/) group at the Eindhoven University of Technology. Before that I did the "Mathematical Foundations of Computer   Science" program at the Radboud University Nijmegen. For my master's thesis I spend a semester at the École normale supérieure de Lyon, where I researched origin transducers with Denis Kuperberg.
 
 # Contributions
-- **GandALF 2024** - [An Evaluation of Massively Parallel Algorithms for DFA Minimization]()\
+- **GandALF 2024** - An Evaluation of Massively Parallel Algorithms for DFA Minimization(to appear)\
     With Anton Wijs
+- **Logics and Type Systems in Theory and Practice** 
 - **CONCUR 2023** - [Computing minimal distinguishing Hennessy-Milner formulas is NP-hard, but variants are tractable
-](https://arxiv.org/abs/2307.05265)\
+](10.1007/978-3-031-61716-4_12)\
     With Jan Friso Groote
 - **FACS 2021** - [A Linear Parallel Algorithm to Compute Bisimulation and Relational Coarsest Partitions](https://arxiv.org/pdf/2105.11788.pdf)\
     With Jan Friso Groote, Lars van den Haak, Pieter Hijma and Anton Wijs 
