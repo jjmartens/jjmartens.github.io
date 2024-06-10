@@ -10,7 +10,7 @@
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    	<img src="https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/instituten/liacs/martens_jan_portret.jpg/martens_jan_portret.jpg/d200x250" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
 
