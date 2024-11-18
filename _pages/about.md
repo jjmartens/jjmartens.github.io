@@ -41,7 +41,7 @@ In September 2024 I succesfully defended my thesis titled : "The Complexity of B
     With Jan Friso Groote and Erik de Vink
 
 # Thesis
-- PhD thesis -- [The Complexity of Bisimilarity by Partition Refinement] ttps://research.tue.nl/en/publications/the-complexity-of-bisimilarity-by-partition-refinement)
+- PhD thesis -- [The Complexity of Bisimilarity by Partition Refinement](https://research.tue.nl/en/publications/the-complexity-of-bisimilarity-by-partition-refinement)
 - Master's thesis -- [Resynchronizability of origin transducers](https://www.cs.ru.nl/masters-theses/2019/J_Martens___Resynchronizability_of_origin_transducers.pdf)
 
 # Informal
