@@ -8,11 +8,14 @@ redirect_from:
 ---
 
 # About me
-From June 2024 I will be working as post doctoral researcher at the Leiden Institute of Advanced Computer Science (LIACS) in the [System Validation Lab](https://svl.liacs.nl/) with Alfons Laarman.
+I work as post doctoral researcher at the Leiden Institute of Advanced Computer Science (LIACS) in the [System Validation Lab](https://svl.liacs.nl/) with Alfons Laarman.
+My research interests are in automata theory, complexity.
 
 Before that I was a PhD-student in the [Formal System Analysis (fsa)](https://fsa.win.tue.nl/) group at the Eindhoven University of Technology. 
+In September 2024 I succesfully defended my thesis titled : "The Complexity of Bisimilarity by Partition Refinement".
+
 # Contributions
-- **GandALF 2024** - An Evaluation of Massively Parallel Algorithms for DFA Minimization(to appear)\
+- **GandALF 2024** - [An Evaluation of Massively Parallel Algorithms for DFA Minimization](https://doi.org/10.4204/EPTCS.409.13)\
     With Anton Wijs
 - **Logics and Type Systems in Theory and Practice** -
   [Minimal Depth Distinguishing Formulas Without Until for Branching Bisimulation](https://doi.org/10.1007/978-3-031-61716-4_12)\
@@ -36,6 +39,10 @@ Before that I was a PhD-student in the [Formal System Analysis (fsa)](https://fs
     With Jan Friso Groote, Lars van den Haak, Pieter Hijma and Anton Wijs
 - **Logical Methods in Computer Science - 2023** - [Lowerbounds for Bisimulation by Partition Refinement](https://doi.org/10.46298/lmcs-19(2:10)2023)\
     With Jan Friso Groote and Erik de Vink
+
+# Thesis
+- PhD thesis -- [The Complexity of Bisimilarity by Partition Refinement] ttps://research.tue.nl/en/publications/the-complexity-of-bisimilarity-by-partition-refinement)
+- Master's thesis -- [Resynchronizability of origin transducers](https://www.cs.ru.nl/masters-theses/2019/J_Martens___Resynchronizability_of_origin_transducers.pdf)
 
 # Informal
 - [Deciding minimal distinguishing DFAs is NP-complete](https://arxiv.org/abs/2306.03533)
