@@ -24,7 +24,7 @@ In September 2024 I succesfully defended my thesis titled : "The Complexity of B
    With Jingyi Mei and Alfons Laarman
 - **GandALF 2024** - [An Evaluation of Massively Parallel Algorithms for DFA Minimization](https://doi.org/10.4204/EPTCS.409.13)\
     With Anton Wijs
-- **Logics and Type Systems in Theory and Practice** -
+- **Logics and Type Systems in Theory and Practice 2024** -
   [Minimal Depth Distinguishing Formulas Without Until for Branching Bisimulation](https://doi.org/10.1007/978-3-031-61716-4_12)\
   With Jan Friso Groote
 - **CONCUR 2023** - [Computing minimal distinguishing Hennessy-Milner formulas is NP-hard, but variants are tractable
