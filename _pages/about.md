@@ -14,7 +14,14 @@ My research interests are in automata theory, complexity.
 Before that I was a PhD-student in the [Formal System Analysis (fsa)](https://fsa.win.tue.nl/) group at the Eindhoven University of Technology. 
 In September 2024 I succesfully defended my thesis titled : "The Complexity of Bisimilarity by Partition Refinement".
 
-# Contributions
+# Preprints
+- [A Quadratic Lower Bound for Simulation](https://arxiv.org/abs/2411.14067)\
+  With Jan Friso Groote
+- [Deciding minimal distinguishing DFAs is NP-complete](https://arxiv.org/abs/2306.03533)
+
+# Conference Contributions
+- **ICTAC 2024 -- invited paper** - [Disentangling the Gap Between Quantum and #SAT](https://doi.org/10.1007/978-3-031-77019-7_2)\
+- With Jingyi Mei and Alfons Laarman
 - **GandALF 2024** - [An Evaluation of Massively Parallel Algorithms for DFA Minimization](https://doi.org/10.4204/EPTCS.409.13)\
     With Anton Wijs
 - **Logics and Type Systems in Theory and Practice** -
@@ -44,5 +51,3 @@ In September 2024 I succesfully defended my thesis titled : "The Complexity of B
 - PhD thesis -- [The Complexity of Bisimilarity by Partition Refinement](https://research.tue.nl/en/publications/the-complexity-of-bisimilarity-by-partition-refinement)
 - Master's thesis -- [Resynchronizability of origin transducers](https://www.cs.ru.nl/masters-theses/2019/J_Martens___Resynchronizability_of_origin_transducers.pdf)
 
-# Informal
-- [Deciding minimal distinguishing DFAs is NP-complete](https://arxiv.org/abs/2306.03533)
