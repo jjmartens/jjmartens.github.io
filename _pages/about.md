@@ -21,7 +21,7 @@ In September 2024 I succesfully defended my thesis titled : "The Complexity of B
 
 # Conference Contributions
 - **ICTAC 2024 -- invited paper** - [Disentangling the Gap Between Quantum and #SAT](https://doi.org/10.1007/978-3-031-77019-7_2)\
-- With Jingyi Mei and Alfons Laarman
+   With Jingyi Mei and Alfons Laarman
 - **GandALF 2024** - [An Evaluation of Massively Parallel Algorithms for DFA Minimization](https://doi.org/10.4204/EPTCS.409.13)\
     With Anton Wijs
 - **Logics and Type Systems in Theory and Practice** -
