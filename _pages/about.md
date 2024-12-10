@@ -9,7 +9,7 @@ redirect_from:
 
 # About me
 I work as post doctoral researcher at the Leiden Institute of Advanced Computer Science (LIACS) in the [System Validation Lab](https://svl.liacs.nl/) with Alfons Laarman.
-My research interests are in automata theory, complexity.
+My research interests are in automata theory, complexity and concurrency theory.
 
 Before that I was a PhD-student in the [Formal System Analysis (fsa)](https://fsa.win.tue.nl/) group at the Eindhoven University of Technology. 
 In September 2024 I succesfully defended my thesis titled : "The Complexity of Bisimilarity by Partition Refinement".
